@@ -1,0 +1,11 @@
+C:\gitRepos\MLDotNet\myApp\bin\Debug\netcoreapp2.1\myApp.deps.json
+C:\gitRepos\MLDotNet\myApp\bin\Debug\netcoreapp2.1\myApp.runtimeconfig.json
+C:\gitRepos\MLDotNet\myApp\bin\Debug\netcoreapp2.1\myApp.runtimeconfig.dev.json
+C:\gitRepos\MLDotNet\myApp\bin\Debug\netcoreapp2.1\myApp.dll
+C:\gitRepos\MLDotNet\myApp\bin\Debug\netcoreapp2.1\myApp.pdb
+C:\gitRepos\MLDotNet\myApp\obj\Debug\netcoreapp2.1\myApp.csprojAssemblyReference.cache
+C:\gitRepos\MLDotNet\myApp\obj\Debug\netcoreapp2.1\myApp.csproj.CoreCompileInputs.cache
+C:\gitRepos\MLDotNet\myApp\obj\Debug\netcoreapp2.1\myApp.AssemblyInfoInputs.cache
+C:\gitRepos\MLDotNet\myApp\obj\Debug\netcoreapp2.1\myApp.AssemblyInfo.cs
+C:\gitRepos\MLDotNet\myApp\obj\Debug\netcoreapp2.1\myApp.dll
+C:\gitRepos\MLDotNet\myApp\obj\Debug\netcoreapp2.1\myApp.pdb
